@@ -1,3 +1,2 @@
-Alx School is so cool!
- ALX School
 #!/bash/bash
+echo "School"
